@@ -1,2 +1,6 @@
 # Jogos da mega sena
- Um algoritmo que simula o algoritmo da caixa economica para criar jogos da mega sena. Utilizado listas, random e sleep em Python
+ Um algoritmo em Python que simula o programa de sorteio da caixa econômica para criar jogos da mega sena. 
+ Utilizei:
+ * listas; 
+ * random; 
+ * sleep.
